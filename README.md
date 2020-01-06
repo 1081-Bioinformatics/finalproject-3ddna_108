@@ -51,3 +51,9 @@ to the assembly from draft to chromosome-length scaffolds.
 * OS Version
 
     * [Ubuntu 16.04.6 LTS (Xenial Xerus)](http://releases.ubuntu.com/16.04/)
+
+* Run both AaegL2&Human
+
+* CPU Usage Plot ( The analysis process run 5 Days)
+
+![CPU](./results/img/gcp_cpu.png)

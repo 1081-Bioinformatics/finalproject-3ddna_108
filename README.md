@@ -1,4 +1,4 @@
-# Title of your paper
+# De novo assembly of the Aedes aegypti genome using Hi-C yields chromosome-length scaffolds (Paper Reproduction)
 ### Members
 * name, student ID1
 * name, student ID2
@@ -30,8 +30,11 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 * Analysis steps
 
 ### results
-* Which part of the paper do you reproduce?
-* Any improvement or change by your package?
+
+The following figure of Human Hi-C map is the before(right) /after (left) of using 3D-DNA 
+to the assembly from draft to chromosome-length scaffolds.
+
+![HiC Map](./results/img/example_result.png)
 
 ## References
 * Packages you use

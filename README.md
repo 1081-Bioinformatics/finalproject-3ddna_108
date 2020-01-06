@@ -1,14 +1,13 @@
 # De novo assembly of the Aedes aegypti genome using Hi-C yields chromosome-length scaffolds (Paper Reproduction)
 ### Members
-* name, student ID1
-* name, student ID2
-* name, student ID3
-* ...
+* Yang Ming Hang 楊明翰, 108753203
+* 曾偉綱, 108753122
+* Armando王神鐸, 107753048
 
 ### Demo 
-You might provide an example commend or few commends to reproduce your analysis
+example of running human analysis pipline
 ```R
-Rscript code/your_script.R --input data/training --output results/performance.tsv
+sudo sh run_Human_script.sh
 ```
 
 ## Folder organization and its related information
@@ -18,16 +17,19 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 * Any related document for the paper
   * software user guide
 
-### data
-* Source
-* Format
-* Size
+### data used
+* AaegL2
+    * [GSE95797_AaegL2.mnd.txt.gz](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE95797)
+    * [GSE95797_AaegL4.fasta.gz](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE95797)
+* Human
+    * [GSE95797_Hs1.mnd.txt.gz](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE95797)
+    * [GSE95797_Hs1.fasta.gz](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE95797)
+
+You can download the dataset from the helping shell scripts.
 
 ### code
-* Which packages do you use? 
+* Using [3D-DNA](https://github.com/theaidenlab/3d-dna)
   * original packages in the paper
-  * additional packages you found
-* Analysis steps
 
 ### results
 
@@ -37,7 +39,7 @@ to the assembly from draft to chromosome-length scaffolds.
 ![HiC Map](./results/img/example_result.png)
 
 ## References
-* Packages you use
-* Related publications
+* [https://github.com/theaidenlab/3d-dna](https://github.com/theaidenlab/3d-dna)
+* [Dudchenko, O., et al. De novo assembly of the Aedes aegypti genome using Hi-C yields chromosome-length scaffolds. Science. Apr 7; 356(6333):92-95 (2017).](https://www.ncbi.nlm.nih.gov/pubmed/28336562)
 
 

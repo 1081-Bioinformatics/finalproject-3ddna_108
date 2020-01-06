@@ -9,3 +9,7 @@
 - Run scripts - In folder [run_analysis](./run_analysis).
 
 - Visualization scripts - In folder [run_juice_box](./run_juice_box).
+
+### AWK Scripts:
+
+- Bug Fix Plugin - In folder [fixbug_code](./fixbug_code).

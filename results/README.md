@@ -4,6 +4,10 @@ The following figure are plot by [Juicebox](https://github.com/aidenlab/Juicebox
 
 ## AaegL2
 
+- AaegL2.2.draft.hic
+
+![AaegL2.2.draft.hic](./img/AaegL2/AaegL2.2.draft.hic.png)
+
 - AaegL2.2.0.hic
 
 ![AaegL2.2.0.hic](./img/AaegL2/AaegL2.2.0.hic.png)

@@ -40,4 +40,6 @@ The following figure are plot by [Juicebox](https://github.com/aidenlab/Juicebox
 
 - GM12878_Cell_2014
 
+(HIC001(148M) Cell. 2014 Dec 18;159(7):1665-80. doi: 10.1016/j.cell.2014.11.021. Epub 2014 Dec 11.)
+
 ![GM12878_Cell_2014](./img/Human/GM12878_Cell_2014.png)

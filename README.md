@@ -25,7 +25,7 @@ sudo sh run_Human_script.sh
     * [GSE95797_Hs1.mnd.txt.gz](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE95797)
     * [GSE95797_Hs1.fasta.gz](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE95797)
 
-You can download the dataset from the helping shell scripts.
+You can download the dataset from the helping [shell scripts](./code/download_data).
 
 ### code
 * Using [3D-DNA](https://github.com/theaidenlab/3d-dna)

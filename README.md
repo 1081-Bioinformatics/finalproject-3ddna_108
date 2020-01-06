@@ -42,4 +42,12 @@ to the assembly from draft to chromosome-length scaffolds.
 * [https://github.com/theaidenlab/3d-dna](https://github.com/theaidenlab/3d-dna)
 * [Dudchenko, O., et al. De novo assembly of the Aedes aegypti genome using Hi-C yields chromosome-length scaffolds. Science. Apr 7; 356(6333):92-95 (2017).](https://www.ncbi.nlm.nih.gov/pubmed/28336562)
 
+## Compute Device Using
 
+* [Google Cloud Platform](https://console.cloud.google.com/)
+
+    * n1-standard-16 (16 vCPUs, 60 GB memory, 1TB HDD)
+
+* OS Version
+
+    * [Ubuntu 16.04.6 LTS (Xenial Xerus)](http://releases.ubuntu.com/16.04/)

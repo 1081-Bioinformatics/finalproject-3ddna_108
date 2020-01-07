@@ -13,9 +13,8 @@ sudo sh run_Human_script.sh
 ## Folder organization and its related information
 
 ### docs
-* Your presentation, 1081_bioinformatics_FP_< groupID >.ppt/pptx/pdf, by **01.07**
-* Any related document for the paper
-  * software user guide
+* [1081_bioinformatics_FP_group4.pdf](./docs/1081_bioinformatics_FP_group4.pdf)
+* [1081_bioinformatics_FP_group4.pptx](./docs/1081_bioinformatics_FP_group4.pptx)
 
 ### data used
 * AaegL2
